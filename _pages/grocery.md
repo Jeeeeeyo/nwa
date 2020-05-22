@@ -8,4 +8,4 @@ permalink: https://www.nwawholesaler.com/grocery/
 published: true
 post_date: 2020-05-22 12:43:27
 ---
-<!-- wp:woocommerce/product-category {"categories":[50]} /-->
+<!-- wp:woocommerce/product-category {"rows":6,"categories":[50]} /-->
