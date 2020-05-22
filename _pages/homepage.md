@@ -12,4 +12,8 @@ post_date: 2020-05-21 17:53:28
 <div class="wp-block-nextend-smartslider3">[smartslider3 slider="2"]</div>
 <!-- /wp:nextend/smartslider3 -->
 
-<!-- wp:woocommerce/product-top-rated {"alignButtons":true,"categories":[45]} /-->
+<!-- wp:heading {"align":"center","textColor":"vivid-red"} -->
+<h2 class="has-vivid-red-color has-text-color has-text-align-center">FEATURED PRODUCTS</h2>
+<!-- /wp:heading -->
+
+<!-- wp:woocommerce/product-top-rated {"alignButtons":true,"categories":[68,29],"contentVisibility":{"title":true,"price":true,"rating":true,"button":true}} /-->
