@@ -1,6 +1,6 @@
 ---
 ID: 16915
-post_title: Homepage
+post_title: Home
 author: demenwallc
 post_excerpt: ""
 layout: page
