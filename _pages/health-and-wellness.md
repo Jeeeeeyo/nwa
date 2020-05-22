@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2020-05-22 13:41:55
 ---
-<!-- wp:woocommerce/product-on-sale {"categories":[],"contentVisibility":{"title":true,"price":true,"rating":true,"button":true}} /-->
+<!-- wp:woocommerce/product-category {"rows":6,"categories":[53]} /-->
