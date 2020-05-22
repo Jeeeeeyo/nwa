@@ -20,4 +20,4 @@ post_date: 2020-05-21 17:53:28
 <h2 class="has-vivid-red-color has-text-color has-text-align-center">FEATURED PRODUCTS</h2>
 <!-- /wp:heading -->
 
-<!-- wp:woocommerce/product-top-rated {"alignButtons":true,"categories":[68,29],"contentVisibility":{"title":true,"price":true,"rating":true,"button":true}} /-->
+<!-- wp:woocommerce/product-top-rated {"columns":5,"alignButtons":true,"categories":[68,29],"contentVisibility":{"title":true,"price":true,"rating":true,"button":true}} /-->
