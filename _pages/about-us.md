@@ -9,24 +9,20 @@ published: true
 post_date: 2020-01-04 11:11:05
 ---
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"> <strong>History of Northwest Asian Trading, LLC </strong></p>
+<p class="has-text-align-center"> <strong>History of Northwest AsianABTrading, LLC </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p> In&nbsp;<strong>2005</strong>, NWA was started; it currently distributes plastic food containers, freezer bags, food storage, cleaning products, and spices.</p>
+<p>At NWA, we believe that we can give you the best deals and a great shopping experience within the comfort and safety of your homes. Whether you are a wholesaler or a customer looking for your basic and home needs, we have great offers for you.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p> Deme’s vision for NWA is for it to become the premier wholesale distribution company in the Pacific Northwest. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> With nearly a decade of business success, he is well on his way to achieving this goal.  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":543,"width":753,"height":502,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://www.nwawholesaler.com/wp-content/uploads/2020/01/Lemlem-Catalog-600x400-1.jpg" alt="" class="wp-image-543" width="753" height="502"/></figure>
+<!-- wp:image {"id":17308,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.nwawholesaler.com/wp-content/uploads/2020/05/man-pushing-hand-truck-beside-building-2047397-1024x1024.jpg" alt="" class="wp-image-17308"/></figure>
 <!-- /wp:image -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">Our Story</h2>
+<!-- /wp:heading -->
 
 <!-- wp:heading {"customTextColor":"#106ca1"} -->
 <h2 class="has-text-color" style="color:#106ca1"><strong>Deme</strong></h2>
