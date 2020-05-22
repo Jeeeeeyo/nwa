@@ -8,8 +8,8 @@ permalink: https://www.nwawholesaler.com/about-us/
 published: true
 post_date: 2020-01-04 11:11:05
 ---
-<!-- wp:paragraph -->
-<p> <strong>History of Northwest Asian Trading, LLC </strong></p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"> <strong>History of Northwest Asian Trading, LLC </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
