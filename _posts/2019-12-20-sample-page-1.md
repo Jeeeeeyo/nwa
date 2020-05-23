@@ -1,11 +1,11 @@
 ---
 ID: 1
-post_title: Hello world!
+post_title: first Sample Page
 author: demenwallc
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.nwawholesaler.com/hello-world/
+  https://www.nwawholesaler.com/sample-page-1/
 published: true
 post_date: 2019-12-20 11:32:47
 ---
