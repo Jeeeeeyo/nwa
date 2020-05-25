@@ -9,20 +9,16 @@ permalink: >
 published: true
 post_date: 2019-12-20 11:32:47
 ---
-<!-- wp:heading -->
-<h2>Who we are</h2>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Who we are</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Our website address is: http://www.nwawholesaler.com</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>What personal data we collect and why we collect it</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Comments</h3>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">What personal data we collect and why we collect it</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -33,20 +29,24 @@ post_date: 2019-12-20 11:32:47
 <p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Media</h3>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Media</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Contact forms</h3>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Contact forms</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Cookies</h3>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Cookies</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -65,8 +65,8 @@ post_date: 2019-12-20 11:32:47
 <p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Embedded content from other websites</h3>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Embedded content from other websites</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -77,16 +77,24 @@ post_date: 2019-12-20 11:32:47
 <p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Analytics</h3>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color"><strong>Analytics</strong></h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading -->
-<h2>Who we share your data with</h2>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Who we share your data with</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading -->
-<h2>How long we retain your data</h2>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">How long we retain your data</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -97,46 +105,78 @@ post_date: 2019-12-20 11:32:47
 <p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>What rights you have over your data</h2>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">What rights you have over your data</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>Where we send your data</h2>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Where we send your data</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Visitor comments may be checked through an automated spam detection service.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>Your contact information</h2>
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Your contact information</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading -->
-<h2>Additional information</h2>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Additional information</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>How we protect your data</h3>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">How we protect your data</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>What data breach procedures we have in place</h3>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">What data breach procedures we have in place</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>What third parties we receive data from</h3>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">What third parties we receive data from</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>What automated decision making and/or profiling we do with user data</h3>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">What automated decision making and/or profiling we do with user data</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Industry regulatory disclosure requirements</h3>
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
+<h3 class="has-vivid-red-color has-text-color">Industry regulatory disclosure requirements</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
