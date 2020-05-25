@@ -9,5 +9,5 @@ published: true
 post_date: 2017-12-01 09:42:57
 ---
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>[searchandfilter id="filter_by_price"]</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td> </td></tr></tbody></table></figure>
 <!-- /wp:table -->
