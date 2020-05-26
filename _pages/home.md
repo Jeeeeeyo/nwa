@@ -36,25 +36,25 @@ post_date: 2020-05-21 17:53:28
 <h2 class="has-vivid-red-color has-text-color has-text-align-center"><strong>WHY NWA WHOLESALER?</strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:nextend/smartslider3 {"slider":"7"} -->
+<!-- wp:gutentor/m4 {"gID":"gm03e6336","columns":3,"dLayout":"fourFourFour"} -->
+<section id="gm03e6336" class="wp-block-gutentor-m4 section-gm03e6336 gutentor-module gutentor-advanced-columns"><div class="grid-container"><div class="grid-row"><!-- wp:gutentor/m4-col {"gID":"gm8a2783","mPID":"03e6336d-f1cb-4358-956c-f7efe615c9c1","columns":3,"dLayout":"fourFourFour","layoutIndex":0,"dLayoutColumn":4,"colWidth":33.33333333333333} -->
+<div id="col-gm8a2783" class="wp-block-gutentor-m4-col col-gm8a2783 gutentor-single-column  grid-lg-4 grid-md-12 grid-12"><div id="section-gm8a2783" class="section-gm8a2783 gutentor-col-wrap"><!-- wp:nextend/smartslider3 {"slider":"7"} -->
 <div class="wp-block-nextend-smartslider3">[smartslider3 slider="7"]</div>
-<!-- /wp:nextend/smartslider3 --></div>
-<!-- /wp:column -->
+<!-- /wp:nextend/smartslider3 --></div></div>
+<!-- /wp:gutentor/m4-col -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:nextend/smartslider3 {"slider":"9"} -->
+<!-- wp:gutentor/m4-col {"gID":"gm0d062b","mPID":"03e6336d-f1cb-4358-956c-f7efe615c9c1","columns":3,"dLayout":"fourFourFour","layoutIndex":1,"dLayoutColumn":4,"colWidth":33.33333333333333} -->
+<div id="col-gm0d062b" class="wp-block-gutentor-m4-col col-gm0d062b gutentor-single-column  grid-lg-4 grid-md-12 grid-12"><div id="section-gm0d062b" class="section-gm0d062b gutentor-col-wrap"><!-- wp:nextend/smartslider3 {"slider":"9"} -->
 <div class="wp-block-nextend-smartslider3">[smartslider3 slider="9"]</div>
-<!-- /wp:nextend/smartslider3 --></div>
-<!-- /wp:column -->
+<!-- /wp:nextend/smartslider3 --></div></div>
+<!-- /wp:gutentor/m4-col -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:nextend/smartslider3 {"slider":"10"} -->
+<!-- wp:gutentor/m4-col {"gID":"gm11fc37","mPID":"03e6336d-f1cb-4358-956c-f7efe615c9c1","columns":3,"dLayout":"fourFourFour","layoutIndex":2,"dLayoutColumn":4,"colWidth":33.33333333333333} -->
+<div id="col-gm11fc37" class="wp-block-gutentor-m4-col col-gm11fc37 gutentor-single-column  grid-lg-4 grid-md-12 grid-12"><div id="section-gm11fc37" class="section-gm11fc37 gutentor-col-wrap"><!-- wp:nextend/smartslider3 {"slider":"10"} -->
 <div class="wp-block-nextend-smartslider3">[smartslider3 slider="10"]</div>
-<!-- /wp:nextend/smartslider3 --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- /wp:nextend/smartslider3 --></div></div>
+<!-- /wp:gutentor/m4-col --></div></div></section>
+<!-- /wp:gutentor/m4 -->
 
 <!-- wp:popupbuilder/popups {"popupEvent":"onLoad"} -->
 [sg_popup id="17310" event="onLoad"][/sg_popup]
