@@ -12,7 +12,9 @@ post_date: 2020-05-21 17:53:28
 						Previous
 						Next
 			<figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="5f5cca6" data-elementor-lightbox-title="banner1" href='https://www.nwawholesaler.com/wp-content/uploads/2020/05/banner1.png'><img width="285" height="190" src="https://www.nwawholesaler.com/wp-content/uploads/2020/05/banner1-285x190.png" alt="" /></a>
+				<a data-elementor-open-lightbox="no" href='https://www.nwawholesaler.com/wp-content/uploads/2020/05/spice-3.jpg'><img width="285" height="190" src="https://www.nwawholesaler.com/wp-content/uploads/2020/05/spice-3-285x190.jpg" alt="" srcset="https://www.nwawholesaler.com/wp-content/uploads/2020/05/spice-3.jpg 285w, https://www.nwawholesaler.com/wp-content/uploads/2020/05/spice-3-64x43.jpg 64w" sizes="(max-width: 285px) 100vw, 285px" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="no no" href='https://www.nwawholesaler.com/wp-content/uploads/2020/05/care-3.jpg'><img width="285" height="190" src="https://www.nwawholesaler.com/wp-content/uploads/2020/05/care-3-285x190.jpg" alt="" srcset="https://www.nwawholesaler.com/wp-content/uploads/2020/05/care-3.jpg 285w, https://www.nwawholesaler.com/wp-content/uploads/2020/05/care-3-64x43.jpg 64w" sizes="(max-width: 285px) 100vw, 285px" /></a>
 			</figure>
 			<h2>WHY NWA WHOLESALER?</h2>		
 										<img width="640" height="640" src="https://www.nwawholesaler.com/wp-content/uploads/2020/05/Boxes.png" alt="" srcset="https://www.nwawholesaler.com/wp-content/uploads/2020/05/Boxes.png 700w, https://www.nwawholesaler.com/wp-content/uploads/2020/05/Boxes-300x300.png 300w, https://www.nwawholesaler.com/wp-content/uploads/2020/05/Boxes-600x600.png 600w, https://www.nwawholesaler.com/wp-content/uploads/2020/05/Boxes-100x100.png 100w, https://www.nwawholesaler.com/wp-content/uploads/2020/05/Boxes-64x64.png 64w" sizes="(max-width: 640px) 100vw, 640px" />											
